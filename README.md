@@ -1,3 +1,14 @@
 El escaner buscara puertos abiertos dentro de tu red localhost 
 
-simplemete dale a main.py introduciendo [python3 main.py]
+instalacion en Termux
+apt update
+
+apt upgrade
+
+cd escaner
+
+ls
+
+chmod 777 main.py
+
+python3 main.py
