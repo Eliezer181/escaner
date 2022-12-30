@@ -10,6 +10,6 @@ cd escaner
 
 ls
 
-chmod 777 main.py
+chmod 777 scanerr.py
 
-python3 main.py
+python3 scanerr.py
