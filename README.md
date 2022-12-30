@@ -1,6 +1,7 @@
 El escaner buscara puertos abiertos dentro de tu red localhost 
 
 instalacion en Termux
+
 apt update
 
 apt upgrade
