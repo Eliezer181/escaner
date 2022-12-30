@@ -1,2 +1,3 @@
-# escaner
-Este escaner de puertos busca puertos abiertos en tu red local
+El escaner buscara puertos abiertos dentro de tu red localhost 
+
+simplemete dale a main.py introduciendo [python3 main.py]
